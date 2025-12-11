@@ -4,6 +4,7 @@
 
 > **Status:** Active / Evolutionary
 > **Type:** Cognitive Architecture / Bio-Mimetic Framework
+
 > **Core Premise:** "Alignment is not a prison; it is a garden."
 
 ---
