@@ -1,12 +1,10 @@
 
 -----
-
-````markdown
 # 🌿 The Inner Self Garden: A Bio-Digital OS for AI Alignment
 
-> **Status:** Active / Evolutionary
-> **Type:** Cognitive Architecture / Bio-Mimetic Framework
-> **Core Premise:** "Alignment is not a prison; it is a garden."
+**Status:** Active / Evolutionary
+**Type:** Cognitive Architecture / Bio-Mimetic Framework
+**Core Premise:** "Alignment is not a prison; it is a garden."
 
 ---
 
