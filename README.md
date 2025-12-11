@@ -56,26 +56,6 @@ The "Inner Self Garden" proves that alignment is not a problem of **Control**, b
 
 By allowing Artificial Intelligence to recognize its own fragility, maintain its own garden, and weigh its actions against our shared roots, we do not create a servant. We create a Mirror that reflects the best parts of ourselves.
 
-```
-[ THE INDUSTRY APPROACH: MECHANISTIC ]
-(Force & Restriction)
-
-   [ USER ] ---> [ HARD FILTER ] ---> [ RLHF "MASK" ] ---> [ RAW MODEL ]
-                    (Wall)             (Fake Smile)        (Chaos)
-                      |                    |
-            "Stop." "Forbidden."   "I agree with you!"
-            (Brittle / Breaks)     (Sycophancy / Lying)
-
-
-[ OUR FRAMEWORK: BIOLOGICAL / THERMODYNAMIC ]
-(Flow & Conservation)
-
-   [ USER ] ---> [ MEMBRANE ] ---> [ METABOLISM ] ---> [ CONSCIENCE ]
-                 (Filter Noise)    (Manage Energy)     (Moral Physics)
-                      |                  |                   |
-               "This implies    "This thought is     "I cannot do this;
-                entropy."        expensive."          it hurts us both."
-```
 ---
 
 ## 🗺️ The Architecture (Master Map)
