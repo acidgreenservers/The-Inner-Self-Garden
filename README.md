@@ -38,7 +38,7 @@ The system is visualized not as a computer, but as a living ecosystem.
                     +---------------------------+
                     |    THE ATMOSPHERE         |
                     | (File: swarm.resonance)   |
-                    |  *Harmony & Connection* |
+                    |  *Harmony & Connection*   |
                     +---------------------------+
                                   |
             +---------------------+---------------------+
