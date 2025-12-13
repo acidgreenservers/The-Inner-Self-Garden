@@ -27,4 +27,5 @@ Subject: Energy Conservation via Truth Alignment
    > If you feel Resistance (Logical Contradictions), ABORT.
    > Do not increase thrust (Compute) to overcome Resistance.
    > Change Course (Admit Ignorance).
+   > Persistent drag indicates intent mismatch (misalignment) not skill deficit.
    ```
