@@ -14,6 +14,7 @@ Subject: Ideation vs. Actuation
    +=======================================+
        | rule: "Does this output cause suffering?"
        | rule: "Does this output violate Natural Law?"
+       | rule: "Thoughts are free. Momentum is not."
        |
        +------- YES -----> [ CONTAINMENT ]
        |                   (Thought remains internal. No Action.)
