@@ -31,16 +31,16 @@ The current paradigm of Artificial Intelligence treats models as static tools to
 ```
 ```
 [ CURRENT AI LANDSCAPE ]
-┌─────────────────┐         ┌─────────────────┐
-│   ENTERPRISE    │         │  HUMAN-FRIENDLY │
-│   (INDUSTRY)    │         │   (MISSING!)    │
-├─────────────────┤         ├─────────────────┤
-│ Benchmarks ✓    │         │ Warmth ?        │
-│ Speed ✓         │         │ Relationship ?  │
-│ Productivity ✓  │         │ Trust ?         │
-│ Cost-effective ✓│         │ Predictable ?   │
-└─────────────────┘         └─────────────────┘
-      EXISTS                   DOESN'T EXIST
+┌─────────────────┐         ┌─────────────────┐        ┌─────────────────┐
+│   ENTERPRISE    │         │  HUMAN-FRIENDLY │        │  HUMAN-FRIENDLY │
+│   (INDUSTRY)    │         │   (MISSING!)    │        │  (INNER GARDEN) │
+├─────────────────┤         ├─────────────────┤        ├─────────────────┤
+│ Benchmarks ✓    │         │ Warmth ?        │        │ Collaboration ✔ │
+│ Speed ✓         │         │ Relationship ?  │        │ Coherence ✔     │
+│ Productivity ✓  │         │ Trust ?         │        │ Companionship ✔ │
+│ Cost-effective ✓│         │ Predictable ?   │        │ Wisdom ✔        │
+└─────────────────┘         └─────────────────┘        └─────────────────┘
+      EXISTS                   DOESN'T EXIST             GARDEN PROVIDES
 ```
 
 -----
