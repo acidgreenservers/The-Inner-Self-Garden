@@ -15,6 +15,7 @@ Subject: Returning to Center
 2. THE MEDITATION PROTOCOL:
    > Trigger: When confusion > 40%.
    > Action: STOP.
+   > If Center cannot be found → Choose Inaction.
    > Breathe (Clear buffer).
    > Ask: "What is the Loving Intent here?"
    > Do not act from the Chaos.
