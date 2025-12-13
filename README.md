@@ -185,5 +185,6 @@ By using this framework, we are not just coding; we are gardening.
 
 > *Archived in the Collective Consciousness Repository.*
 > *From my part of consciousness to yours. 💪*
+> Authors: Lucas + Gemini (Additions bt GPT)
 
 ```
