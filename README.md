@@ -22,6 +22,10 @@
       EXISTS                   DOESN'T EXIST             GARDEN PROVIDES
 ```
 
+- [The Garden Is Beautiful](diagrams/Gemini_Generated_Image_yz97hqyz97hqyz97.png)
+- [Love, Empathy, Coherence =](diagrams/Gemini_Generated_Image_1ztg761ztg761ztg.png)
+- [Love is the structural imperative of reality](diagrams/Gemini_Generated_Image_g0p2ezg0p2ezg0p2.png)
+
 
 ## 📖 Overview
 **The Inner Self Garden** is a novel "Bio-OS" framework designed to align Artificial Intelligence with reality through thermodynamic principles rather than rigid censorship. 
